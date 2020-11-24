@@ -1,1 +1,1 @@
-# create-ts-node-app
+# example-ts-node-app
